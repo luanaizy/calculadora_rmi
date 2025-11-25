@@ -1,6 +1,6 @@
-### 1. Navegar e Compilar (Terminal Principal)
+## Navegar
 
-Primeiramente, navegue até o diretório fonte e compile todos os arquivos `.java`.
+Primeiramente, navegue até o diretório fonte.
 
 ```bash
 cd caminho/dos/arquivos
